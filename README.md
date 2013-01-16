@@ -28,4 +28,17 @@ I need a command line script to perform the following task (it can be an .sh for
  I need this ASAP. Please provide a FIX BID in your response message and the soonest time you can deliver the script.
 
 
+Examples
+--------
 
+
+
+    $ ruby bin/break-segments.rb tests/sample_input.txt
+
+    $ ruby bin/break-segments.rb tests/sample_input_2.txt 
+
+
+
+
+
+Copyright 2013  Chris Stansbury
