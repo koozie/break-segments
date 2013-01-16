@@ -1,0 +1,2 @@
+<p begin="00:00:00.00" end="00:00:04.12">From now on I will start work earlier.</p>
+<p begin="00:00:04.52" end="00:00:09.11">I'm the only one who is able to handle this task uh... I can't forward this.</p>
