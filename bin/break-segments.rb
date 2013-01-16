@@ -8,7 +8,7 @@ NodeSegment = Struct.new(:time_start, :time_end, :words)
 
 
 def parse_line(line)
-  # clean up line
+  # clean up line: sample:  <p begin="00:00:00.00" end="00:00:04.12">From now on I will start work earlier.</p>
   rec = line.chomp.gsub(/</,' ').gsub(/>/, ' ').split
   rec.pop
   rec.shift
